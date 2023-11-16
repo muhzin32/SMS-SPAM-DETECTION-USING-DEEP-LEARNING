@@ -25,7 +25,7 @@ bash
 pip install -r requirements.txt
 
 ## Model Architecture
-The deep learning model architecture is defined in the model.py file. You can customize the architecture or experiment with different models to improve performance.
+The deep learning model architecture is defined in the spam_detection.sav file. You can customize the architecture or experiment with different models to improve performance.
 
 ## Results
 Details about the model's performance on the test set, including accuracy, precision, recall, and F1 score, can be found in the results directory.
