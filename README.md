@@ -8,7 +8,7 @@ This repository contains the code and resources for building a SMS spam detectio
 
 The dataset used for training and evaluating the model can be found in the `dataset` directory. It includes a collection of SMS messages labeled as spam or ham.
 
-## Requirements
+## Requirements 
 
 Make sure you have the following dependencies installed:
 
